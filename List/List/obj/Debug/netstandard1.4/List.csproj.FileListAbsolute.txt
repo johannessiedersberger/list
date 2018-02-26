@@ -1,0 +1,8 @@
+C:\Users\jsiedersberger\Desktop\Projects\List\List\bin\Debug\netstandard1.4\List.deps.json
+C:\Users\jsiedersberger\Desktop\Projects\List\List\bin\Debug\netstandard1.4\List.dll
+C:\Users\jsiedersberger\Desktop\Projects\List\List\bin\Debug\netstandard1.4\List.pdb
+C:\Users\jsiedersberger\Desktop\Projects\List\List\obj\Debug\netstandard1.4\List.csprojResolveAssemblyReference.cache
+C:\Users\jsiedersberger\Desktop\Projects\List\List\obj\Debug\netstandard1.4\List.csproj.CoreCompileInputs.cache
+C:\Users\jsiedersberger\Desktop\Projects\List\List\obj\Debug\netstandard1.4\List.AssemblyInfo.cs
+C:\Users\jsiedersberger\Desktop\Projects\List\List\obj\Debug\netstandard1.4\List.dll
+C:\Users\jsiedersberger\Desktop\Projects\List\List\obj\Debug\netstandard1.4\List.pdb

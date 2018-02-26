@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Test.exe" fullname="C:/Users/jsiedersberger/Desktop/Projects/List/Test/bin/Debug/Test.exe" testcasecount="5" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.234066" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="14" random-seed="1860732683">
+  <command-line><![CDATA["C:\Users\jsiedersberger\Desktop\Projects\List\Test\bin\Debug\Test.exe"   ]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1006" name="Test.exe" fullname="C:/Users/jsiedersberger/Desktop/Projects/List/Test/bin/Debug/Test.exe" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.234066" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="14">
+    <environment framework-version="3.7.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\jsiedersberger\Desktop\Projects\List\Test\bin\Debug" machine-name="W-SIEDERSB-10" user="jsiedersberger" user-domain="DE" culture="de-DE" uiculture="de-DE" os-architecture="x86" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\jsiedersberger\Desktop\Projects\List\Test\bin\Debug" />
+      <setting name="NumberOfTestWorkers" value="2" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5236" />
+      <property name="_APPDOMAIN" value="Test.exe" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="Test" fullname="Test" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.203983" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="14">
+      <test-suite type="TestFixture" id="1000" name="Test" fullname="Test.Test" classname="Test.Test" runstate="Runnable" testcasecount="5" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.173578" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="14">
+        <test-case id="1001" name="TestAdd" fullname="Test.Test.TestAdd" methodname="TestAdd" classname="Test.Test" runstate="Runnable" seed="193163693" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.018190" asserts="4" />
+        <test-case id="1002" name="TestExists" fullname="Test.Test.TestExists" methodname="TestExists" classname="Test.Test" runstate="Runnable" seed="1398389076" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.003468" asserts="4" />
+        <test-case id="1005" name="TestGet" fullname="Test.Test.TestGet" methodname="TestGet" classname="Test.Test" runstate="Runnable" seed="1224103215" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.009563" asserts="2" />
+        <test-case id="1003" name="TestLength" fullname="Test.Test.TestLength" methodname="TestLength" classname="Test.Test" runstate="Runnable" seed="1237198821" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.000510" asserts="1" />
+        <test-case id="1004" name="TestRemove" fullname="Test.Test.TestRemove" methodname="TestRemove" classname="Test.Test" runstate="Runnable" seed="1330566988" result="Passed" start-time="2018-02-26 10:58:01Z" end-time="2018-02-26 10:58:01Z" duration="0.000595" asserts="3" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
